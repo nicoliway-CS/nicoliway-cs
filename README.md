@@ -28,12 +28,6 @@ I'm always excited to connect with others who share the same passion for innovat
 
 ---
 
-## 🔥 My Stats
+## 🔥 Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nicoliway-cs&theme=dark&hide_border=true)
-
----
-
-## 🥧 Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoliway-cs&layout=pie&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoliway-cs&layout=donut&theme=dark&hide_border=true)
