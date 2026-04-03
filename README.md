@@ -30,4 +30,4 @@ I'm always excited to connect with others who share the same passion for innovat
 
 ## 🔥 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoliway-cs&layout=donut&theme=dark&hide_border=true" />
+[![wakatime](https://wakatime.com/badge/user/nicoliway-cs.svg)](https://wakatime.com)
