@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Nicolas Liway Avendano]
+# 👋 Hey there! I'm Nicolas Liway Avendano
 
 ---
 
@@ -30,4 +30,4 @@ I'm always excited to connect with others who share the same passion for innovat
 
 ## 🔥 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoliway-cs&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoliway-cs&layout=donut&theme=dark&hide_border=true" />
