@@ -28,6 +28,8 @@ I'm always excited to connect with others who share the same passion for innovat
 
 ---
 
-## 🔥 Tech Stack
+## 🛠️ Tech Stack
 
-[![wakatime](https://wakatime.com/badge/user/nicoliway-cs.svg)](https://wakatime.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,react&theme=dark" />
+</p>
