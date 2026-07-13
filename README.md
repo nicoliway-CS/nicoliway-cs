@@ -19,8 +19,9 @@ I'm always excited to connect with others who share the same passion for innovat
 ---
 
 ## 🔗 Connect with Me
-
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)
+-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasliwayavendano)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasliway25@gmail.com)
 
